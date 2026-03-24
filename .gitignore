@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+logs/
+output/
+*.db
+
+data/*
+!data/sample_transactions.csv
