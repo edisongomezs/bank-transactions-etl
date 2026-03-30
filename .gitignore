@@ -1,10 +1,12 @@
 venv/
 __pycache__/
 *.pyc
+.env
 
 logs/
 output/
 *.db
+*.log
 
 data/*
 !data/sample_transactions.csv
