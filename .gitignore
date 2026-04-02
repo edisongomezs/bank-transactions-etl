@@ -10,3 +10,7 @@ output/
 
 data/*
 !data/sample_transactions.csv
+
+# allow sample outputs
+!output/income_vs_expense.png
+!output/transaction_types.png
